@@ -1,0 +1,52 @@
+{
+  "books": [
+    {
+      "id": 2,
+      "key": 2,
+      "title": "Eat to Beat Your Diet",
+      "rating": 37,
+      "author": "William W Li MD",
+      "price": 21.99
+    },
+    {
+      "id": 4,
+      "key": 4,
+      "title": "Daisy Jones",
+      "rating": 517,
+      "author": "Taylor Jenkins Reid",
+      "price": 44.25
+    },
+    {
+      "id": 5,
+      "key": 5,
+      "rating": 34,
+      "title": "Teenage Mutant Ninja Turtles",
+      "author": "Kevin Eastman",
+      "price": 20.31
+    },
+    {
+      "id": 6,
+      "key": 6,
+      "title": "Verity Mrdatni",
+      "rating": 229,
+      "author": "Colleen Hoover",
+      "price": 22.58
+    },
+    {
+      "id": 8,
+      "key": 8,
+      "title": "Tarik Amal Walhi",
+      "rating": 1033,
+      "author": "Alhiane Jack",
+      "price": 33.25
+    },
+    {
+      "id": 9,
+      "key": 9,
+      "title": "Ard Zikola",
+      "rating": 256,
+      "author": "Alhiane Lahcen",
+      "price": 48.99
+    }
+  ]
+}
